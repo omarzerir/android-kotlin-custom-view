@@ -1,0 +1,2 @@
+rootProject.name='2-custom-views'
+include ':app'
